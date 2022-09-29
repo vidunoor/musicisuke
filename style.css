@@ -1,0 +1,24 @@
+.Heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#Note{
+    font-size: 15px;
+    color:black;
+
+}
+body{
+    background-size: cover;
+}
+#song{
+    font-size: 24px;
+    margin: 16.45345345354655678px;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    
+}
+
